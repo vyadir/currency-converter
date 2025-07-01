@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-^@qwky&^0yym)*qg31znsx4z&mj_fz8ljwt409ogmq4!9b7*9l
 DEBUG = False
 
 
-ALLOWED_HOSTS = ["localhost", "127.0.0.1", "0.0.0.0","currency-converter-40u4.onrender.com"]
+ALLOWED_HOSTS = ["localhost", "127.0.0.1", "0.0.0.0","currency-converter-wtqt.onrender.com"]
 
 # Application definition
 
@@ -105,8 +105,10 @@ AUTH_PASSWORD_VALIDATORS = [
 ]
 
 CSRF_TRUSTED_ORIGINS = [
-    "https://currency-converter-40u4.onrender.com",
+    "https://currency-converter-wtqt.onrender.com",
 ]
+
+
 # Internationalization
 # https://docs.djangoproject.com/en/5.2/topics/i18n/
 
